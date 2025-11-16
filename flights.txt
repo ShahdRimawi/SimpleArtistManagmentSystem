@@ -1,0 +1,10 @@
+101,New York,true
+102,London,true
+103,Tokyo,true
+104,Paris	,false
+105,Berlin	,false
+106,Sydney	,true
+107,Rome	,true
+108,Dubai	,false
+109,Los Angeles	,true
+110,Toronto ,false
